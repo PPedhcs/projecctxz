@@ -1,0 +1,28 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "CashOrg",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "CashOrg",
+  "start_url": "/home.php",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://cashorgcell.22web.org/cash3.png",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": true,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "categories": [
+    "finance"
+  ]
+}
